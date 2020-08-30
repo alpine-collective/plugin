@@ -5,8 +5,8 @@
 One short line about the plugin.
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/[repo]?label=version&style=flat-square)
-![GitHub file size in bytes](https://img.shields.io/github/size/[repo]/dist/spruce.js?label=min%20%28no%20gzip%29&style=flat-square)
-[![Monthly downloads via CDN](https://data.jsdelivr.com/v1/package/gh/[repo]/badge)](https://www.jsdelivr.com/package/gh/ryangjchandler/spruce)
+![GitHub file size in bytes](https://img.shields.io/github/size/[repo]/dist/[file].js?label=min%20%28no%20gzip%29&style=flat-square)
+[![Monthly downloads via CDN](https://data.jsdelivr.com/v1/package/gh/[repo]/badge)](https://www.jsdelivr.com/package/gh/[repo])
 
 ## About
 
