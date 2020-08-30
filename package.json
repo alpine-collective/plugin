@@ -7,6 +7,10 @@
         "type": "git",
         "url": "https://github.com/ryangjchandler/alpine-plugin-template"
     },
+    "source": "src/index.js",
+    "main": "dist/alpine-plugin.js",
+    "umd:main": "dist/alpine-plugin.umd.js",
+    "module": "dist/alpine-plugin.module.js",
     "scripts": {
         "build": "microbundle",
         "watch": "microbundle watch",
@@ -16,11 +20,11 @@
         "alpinejs": "^2.6.0"
     },
     "devDependencies": {
-        "@babel/preset-env": "^7.9.5",
+        "@babel/preset-env": "^7.11.0",
         "@testing-library/dom": "^7.2.2",
         "@testing-library/jest-dom": "^5.5.0",
         "jest": "^25.4.0",
         "jsdom-simulant": "^1.1.2",
-        "microbundle": "^0.11.0"
+        "microbundle": "^0.12.3"
     }
 }
