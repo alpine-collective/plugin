@@ -1,5 +1,3 @@
-> ✨ Help support the maintenance of this package by [sponsoring me](https://github.com/sponsors/ryangjchandler).
-
 # Alpine Plugin Template
 
 One short line about the plugin.
