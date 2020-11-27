@@ -24,12 +24,10 @@ Include the following `<script>` tag in the `<head>` of your document:
 
 ## Versioning
 
-This projects follow the [Semantic Versioning](https://semver.org/) guidelines. This means that there *could* be breaking changes on minor version changes, up until v1.x is reached.
-
-For example, 0.1 -> 0.2 might introduce a breaking change.
+This projects follow the [Semantic Versioning](https://semver.org/) guidelines.
 
 ## License
 
-Copyright (c) 2020 Ryan Chandler and contributors
+Copyright (c) 2020 [author] and contributors
 
 Licensed under the MIT license, see [LICENSE.md](LICENSE.md) for details.
