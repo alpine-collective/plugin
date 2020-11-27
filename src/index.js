@@ -6,8 +6,10 @@ const AlpinePlugin = {
 
 const alpine = window.deferLoadingAlpine || ((callback) => callback())
 
+window.AlpinePlugin = AlpinePlugin
+
 window.deferLoadingAlpine = function (callback) {
-    AlpinePlugin.start()
+    window.AlpinePlugin.start()
 
     alpine(callback)
 }
